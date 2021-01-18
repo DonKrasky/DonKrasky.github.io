@@ -1,2 +1,2 @@
 # DonKrasky.github.io
-Personal website using the github jeckyll Cayman theme.
+Personal website using the github jekyll Cayman theme.
