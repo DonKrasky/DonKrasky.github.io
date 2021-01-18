@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/).
+[LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/)
 
 # The Beginning
 
