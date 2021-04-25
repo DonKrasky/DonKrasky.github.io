@@ -8,4 +8,4 @@ This site will serve as my public face to the world, along with my [LinkedIn](ht
 
 ## Simple Tic-Tac-Toe Game:
 
-Here is a simple shell based Tic-Tac-Toe game that takes input from the command shell, at least it will be here once I figure out how to embedd a Jupyter notebook in Jekyll... [TicTacToe](https://mybinder.org/v2/gh/DonKrasky/PythonNotebooks/HEAD)
+Here is a simple shell based Tic-Tac-Toe game that takes input from the command shell, at least it will be here once I figure out how to embedd a Jupyter notebook in Jekyll... [TicTacToe](https://mybinder.org/v2/gh/DonKrasky/PythonNotebooks/HEAD)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DonKrasky/PythonNotebooks/HEAD)
