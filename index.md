@@ -6,6 +6,6 @@ layout: default
 
 This site will serve as my public face to the world, along with my [LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/). It's based on the github open source Cayman theme and uses Jekyll. I've got some projects in mind that will be introduced as I work on them. For now "Hello World!". 
 
-## Simple Tic-Tac-Toe Game:
+## Jupyter Notebooks Work:
 
-Here is a simple shell based Tic-Tac-Toe game that takes input from the command shell, at least it will be here once I figure out how to embedd a Jupyter notebook in Jekyll... [TicTacToe](https://mybinder.org/v2/gh/DonKrasky/PythonNotebooks/HEAD)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DonKrasky/PythonNotebooks/HEAD)
+So far I've got a console based TicTacToe game. More to come at this link: [Python Notebooks](https://mybinder.org/v2/gh/DonKrasky/PythonNotebooks/HEAD)
