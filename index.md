@@ -4,7 +4,7 @@ layout: default
 
 ## The Beginning
 
-This site will serve as my public face to the world, along with my [LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/). It's based on the github open source Cayman theme and uses Jekyll. I've got some projects in mind that will be introduced as I work on them. For now "Hello World!". 
+This site will serve as my public face to the world, along with my [LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/). That page is for professional me. This one is to be myself. The occasionally funny, sometimes mean and angry, yet remarkably average Don Krasky (Ph.D). I'll put a link to my thesis here eventually. It's my page so I'll get to it when I feel like it. This page is based on the github opyouen source Cayman theme and uses Jekyll. I've got some projects in mind that will be introduced below as I work on them. My hope is that you as the reader will enjoy them. However, I have been on the internet long enough to know you random people out there are shallow, critical, and shockingly good at providing "feedback" acionable by only the likes of Heinrich Himmler. I have no intention of listening to ANY suggestions on content for my page that are unsolicited. For now I am going to look like a elitist asshole while I build content. It's the attitude the internet was born to support.
 
 ## Jupyter Notebooks Work:
 
