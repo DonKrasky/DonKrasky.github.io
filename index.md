@@ -4,7 +4,7 @@ layout: default
 
 ## The Beginning
 
-Hello there! I'm Don Krasky, Ph.D. I've completed my doctorate in mathematics from the University of Hawaii at Manoa. This site will exist until I do something with it, along with my [LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/). This page is based on the github opyouen source Cayman theme and uses Jekyll. 
+Hello there! I'm Don Krasky, Ph.D. I've completed my doctorate in mathematics from the University of Hawaii at Manoa. This site will exist until I do something with it, along with my [LinkedIn](http://www.linkedin.com/in/don-krasky-09052185/). This page is based on the github open source Cayman theme and uses Jekyll. 
 
 ## Jupyter Notebooks Work:
 
